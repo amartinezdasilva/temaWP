@@ -1,0 +1,28 @@
+h1{
+    text-align:center;
+    color:white;
+}
+#botoninicio{
+    text-align: center;
+   
+}
+html{
+    color: white;
+    background-image: url(http://imagen46.com/images/2014/01/31/Fondos-de-escritorio-planetas-Art-1080x1920.jpg);
+    
+    
+}
+
+#sidebar{
+float:right;
+  color: white;
+  
+}
+
+
+#menu-menua{
+    list-style:none;
+}
+#menu-menub{
+    list-style:none;
+}
